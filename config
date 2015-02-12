@@ -11,6 +11,7 @@
     cursor_color = "#dcdcdc"
     foreground_color = "#dcdcdc"
     icon_bell = False
+    show_titlebar = False
     font = Ubuntu Mono 13
     background_color = "#3f3f3f"
 [layouts]
